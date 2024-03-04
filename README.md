@@ -1,6 +1,6 @@
 # AI-model
 <br>
-Welcome to our Java-based project, where interaction meets creativity! Our project aims to provide a seamless user experience by integrating text generation and image generation APIs. Whether you need quick answers to your questions or want to transform text into captivating visuals, our project has got you covered.
+Welcome to my Java-based project, where interaction meets creativity! Our project aims to provide a seamless user experience by integrating text generation and image generation APIs. Whether you need quick answers to your questions or want to transform text into captivating visuals, our project has got you covered.
 
 <h1>Key Features:</h1>
 <br>
@@ -19,20 +19,11 @@ Users can input prompts, and the system generates responses based on predefined 
 Enhancing user experience further, our project integrates a sophisticated image generation API.
 Users can input text, and the system converts it into visually appealing images.
 <br>
-4.Seamless Integration:
-<br>
-Our project seamlessly integrates both text and image generation functionalities, providing a holistic solution for user interaction and content creation.
-Through Java's versatility and API integration capabilities, we ensure a smooth and efficient workflow.
-<br>
-5.Versatility and Customization:
+4.Versatility and Customization:
 <br>
 Users have the flexibility to tailor their interactions and creations according to their preferences.
 Whether it's adjusting prompt styles, tweaking text generation parameters, or selecting image styles, our project offers customization options to suit diverse needs.
 User-Friendly Interface:
-<br>
-We prioritize user experience, offering an intuitive interface that ensures ease of use.
-From inputting prompts to viewing generated content, our project aims to make every step straightforward and enjoyable for users.
-<br>
 ![Screenshot (325)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/f0dda875-03d0-4446-afdf-624d23ae4faa)
 ![Screenshot (326)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/66efcd68-585b-4d09-a1eb-0d09d116fef2)
 ![Screenshot (327)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/03e93764-db16-4796-825d-07d4bab00ef6)
