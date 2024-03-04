@@ -25,8 +25,11 @@ Users have the flexibility to tailor their interactions and creations according 
 Whether it's adjusting prompt styles, tweaking text generation parameters, or selecting image styles, our project offers customization options to suit diverse needs.
 User-Friendly Interface:
 <br>
-![Screenshot (328)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/f6e6931a-160d-4103-b723-f5fdb9c66386)
-![Screenshot (328)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/0a774585-fa94-46c0-b02a-8418d9962382)
+![Screenshot (325)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/bb587d4e-990f-477e-b603-cfc51a07ecf5)
+![Screenshot (327)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/5bb2839a-42ff-450f-8ab5-25adaefee2b3)
+![Screenshot (328)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/60efa60d-aac1-4c62-843b-7451beee398b)
+![Screenshot (331)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/25c2a6a3-ed02-4d56-9109-59d7d6a749fc)
+
 
 
 
