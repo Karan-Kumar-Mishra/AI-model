@@ -38,3 +38,18 @@ User-Friendly Interface:
 <br>
 We prioritize user experience, offering an intuitive interface that ensures ease of use.
 From inputting prompts to viewing generated content, our project aims to make every step straightforward and enjoyable for users.
+<br>
+<br>
+<br>![Screenshot (325)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/f0dda875-03d0-4446-afdf-624d23ae4faa)
+![Screenshot (326)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/66efcd68-585b-4d09-a1eb-0d09d116fef2)
+![Screenshot (327)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/03e93764-db16-4796-825d-07d4bab00ef6)
+![Screenshot (328)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/6e3f32b7-493e-47a8-9f1c-bc969b5a8674)
+![Screenshot (329)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/0ff389c2-941d-4667-96f7-baf27ef84d56)
+![Screenshot (330)](https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/dab78978-a66c-4c52-9e3b-29af9ad3e848)
+
+
+
+
+
+
+
