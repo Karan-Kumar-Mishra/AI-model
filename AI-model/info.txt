@@ -1,0 +1,2 @@
+text api source(Chat gpt4)=> https://rapidapi.com/rphrp1985/api/chatgpt-42
+image api source (DALLE)=> https://rapidapi.com/rphrp1985/api/chatgpt-42
