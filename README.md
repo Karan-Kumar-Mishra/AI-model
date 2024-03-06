@@ -5,7 +5,7 @@ Welcome to my Java-based project, where interaction meets creativity! Our projec
 <h1>Key Features:</h1>
 <hr>
 <h2>Interactive Prompt System:</h2>
-Our project offers an intuitive prompt system where users can input their desired text. Whether it's a simple sentence, a paragraph, or even a creative writing prompt, our system is ready to handle it all.
+My project offers an intuitive prompt system where users can input their desired text. Whether it's a simple sentence, a paragraph, or even a creative writing prompt, our system is ready to handle it all.
 <br><br><br>
 
 <h2>Advanced Text Generation API:</h2>
@@ -32,7 +32,9 @@ With a focus on scalability and performance optimization, my project is designed
 <img src="https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/b77650bd-3e9f-4549-a1a3-653e4336e71e">
 <img src="https://github.com/Karan-Kumar-Mishra/AI-model/assets/93134411/6b30e0eb-e688-43e6-8a2e-23fe8a4769fa">
 <br><br> <br>
-
+<h1>Video</h1>
+<br><br> 
+<video src="https://www.linkedin.com/posts/karan-mishra-892970247_java-ai-texttoimage-activity-7171039506886848512-RAsh?trk"> </video>
 
 
 
