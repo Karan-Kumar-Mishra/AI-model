@@ -34,7 +34,7 @@ With a focus on scalability and performance optimization, my project is designed
 <br><br> <br>
 <h1>Video</h1>
 <br><br> 
-<a href="https://www.linkedin.com/posts/karan-mishra-892970247_java-ai-texttoimage-activity-7171039506886848512-RAsh?trk">www.video.com</a>
+<a href="https://www.linkedin.com/posts/karan-mishra-892970247_java-ai-texttoimage-activity-7171039506886848512-RAsh?trk" target="_blank" >www.video.com</a>
 
 
 
