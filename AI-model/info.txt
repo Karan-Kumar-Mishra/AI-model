@@ -1,3 +1,0 @@
-text api source(Chat gpt4)=> https://rapidapi.com/rphrp1985/api/chatgpt-42
-image api source (Text to image)=> https://rapidapi.com/haxednet/api/text-to-image7
-Second image api=> https://rapidapi.com/rphrp1985/api/open-ai21
