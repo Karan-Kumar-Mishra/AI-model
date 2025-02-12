@@ -1,3 +1,5 @@
+![icon](https://github.com/user-attachments/assets/1d13b99e-01e4-42b6-8f67-9f29cf6a3cc3)
+
 # AI-model
 <br>
 Welcome to my Java-based project, where interaction meets creativity! Our project aims to provide a seamless user experience by integrating text generation and image generation APIs. Whether you need quick answers to your questions or want to transform text into captivating visuals, our project has got you covered.
