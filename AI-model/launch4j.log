@@ -1,0 +1,282 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\AI.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+JRE paths:	;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\91888\Desktop\Projects\AI-model\AI-model\AI.exe"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\AI.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+JRE paths:	;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\91888\Desktop\Projects\AI-model\AI-model\AI.exe"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\AI.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+JRE paths:	;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\91888\Desktop\Projects\AI-model\AI-model\AI.exe"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\AI.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+JRE paths:	;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\91888\Desktop\Projects\AI-model\AI-model\AI.exe"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+JRE paths:	;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\91888\Desktop\Projects\AI-model\AI-model\app.exe"
+Args length:	64/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\91888\Desktop\Projects\AI-model\AI-model\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+JRE paths:	;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\91888\Downloads\json-simple-1.1.1.jar;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\91888\Downloads\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\91888\AppData\Local\Microsoft\WindowsApps;C:\Users\91888\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\91888\Desktop\command;C:\Users\91888\Desktop\Projects\IDE;C:\Users\91888\Desktop\Projects\ID;C:\Users\91888\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;;C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\json-simple-1.1.1.jar\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\91888\Downloads\jdk-21_windows-x64_bin\jdk-21.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\91888\Desktop\Projects\AI-model\AI-model\app.exe"
+Args length:	64/32768 chars
+Exit code:	0
