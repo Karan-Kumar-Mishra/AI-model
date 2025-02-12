@@ -16,6 +16,12 @@ import org.json.simple.JSONObject;
 import org.json.simple.JSONArray;
 import org.json.simple.*;
 import java.sql.*;
+<<<<<<< HEAD
+=======
+import org.json.simple.JSONArray;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+>>>>>>> 58028a5fdcbf3178fac3a67f46e096cca6bcf724
 class Animation {
     public void alert(String msg) {
         Font customFont = new Font("Arial", Font.BOLD, 20);
@@ -144,7 +150,11 @@ class AImodel implements ActionListener {
     public Button b = new Button("Send", 50);
     public Button b2 = new Button("Image", 50);
     public Button b3 = new Button("History", 50);
+<<<<<<< HEAD
     public ImageIcon icon = new ImageIcon("icon.png");
+=======
+    public ImageIcon icon = new ImageIcon("icon.ico");
+>>>>>>> 58028a5fdcbf3178fac3a67f46e096cca6bcf724
     public JScrollPane outputJScrollPane = new JScrollPane(textoutput, JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED,
             JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
     Animation a1 = new Animation();
@@ -158,7 +168,11 @@ class AImodel implements ActionListener {
     public String imageUrl = " ";
     final String JDBC_URL = "jdbc:mysql://localhost:3306/AImodel";
     final String USERNAME = "root";
+<<<<<<< HEAD
     final String PASSWORD = "karan";
+=======
+    final String PASSWORD = "1234";
+>>>>>>> 58028a5fdcbf3178fac3a67f46e096cca6bcf724
     Connection connection = null;
     Statement statement = null;
     public void display_history(){
@@ -342,8 +356,13 @@ class AImodel implements ActionListener {
             frame.setVisible(true);
         } catch (Exception ex) {
 
+<<<<<<< HEAD
             Animation a= new Animation();
             a.alert(ex.getMessage());
+=======
+            // Animation a= new Animation();
+            // a.alert(ex.getMessage());
+>>>>>>> 58028a5fdcbf3178fac3a67f46e096cca6bcf724
         }
     }
 
@@ -367,6 +386,11 @@ class AImodel implements ActionListener {
         b.setFont(new Font("Cursive", Font.PLAIN, 25));
         b2.setFont(new Font("Cursive", Font.PLAIN, 25));
         b3.setFont(new Font("Cursive", Font.PLAIN, 25));
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 58028a5fdcbf3178fac3a67f46e096cca6bcf724
         b.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 GetIput();
